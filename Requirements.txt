@@ -1,0 +1,21 @@
+To be run on jupyter notebook python kernel 3
+python 3.11.7
+
+Download the credit card dataset from the given link.
+https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated Project guide data set/creditcard.csv
+
+Copy and paste the dataset in the following folder.
+/Users/shashi/Documents/Capstone projects/creditcard.csv
+
+Libraries required
+
+pandas 1.5.3
+numpy 1.23.5
+tensorflow 2.15.1
+seaborn 0.12.2
+matplotlib.pyplot 3.6.2
+scipy 1.9.3
+sklearn 2.2.0
+keras 2.15.0
+warnings
+pylab
